@@ -1,0 +1,54 @@
+body{
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/08/Background-HD-Images-Screen-Download.jpg);
+    background-repeat: no-repeat;
+    background-size : 600% 267% ;
+
+}
+#base h3{
+    margin-left: 27%;
+    font-size: 240%;
+}
+#base h4{
+    margin-left: 44%;
+}
+#base p{
+    margin-left: 38%;
+}
+#base h2{
+    margin-left: 37%;
+    margin-top: 5%;
+}
+.button {
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: rgb(255, 255, 255);
+    background-color: #674b4b;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 9px rgb(237, 9, 9);
+  }
+  
+  .button:hover {background-color: #3e3e8e}
+  
+  .button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px rgb(227, 7, 7);
+    transform: translateY(4px);
+  }
+  #offer h4{
+      margin-left: 36%;
+  }
+  #ok{
+      margin-left: 29%;
+  }
+  #hjj{
+      margin-left: 50%;
+  }
+  #nn{
+      font-size: 270%;
+  }
